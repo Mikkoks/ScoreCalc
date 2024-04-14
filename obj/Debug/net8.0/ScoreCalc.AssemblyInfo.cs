@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScoreCalc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a106414b15e634b6d82abfbbcc53288ef476fe7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be0b6e75efd8457c0552f2b7b5e13785f5057ec9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScoreCalc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScoreCalc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
