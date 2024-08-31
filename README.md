@@ -6,7 +6,7 @@ This is a command line app to store scores and determine winner
 
 ### Initialization:
 Set up number of players
-Optionally setup max score to determine winner
+
 
 ### Game loop:
 Input score for player for each round
